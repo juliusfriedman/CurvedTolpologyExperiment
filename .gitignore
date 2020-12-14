@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CurvedTopology/bin/Debug/net5.0
+/CurvedTopology/obj
+/test/UnitTestProject/bin/Debug/net5.0
+/test/UnitTestProject/obj
